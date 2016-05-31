@@ -1,0 +1,12 @@
+{
+  "name": "web-tech-tweets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ingest.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "elasticsearch": "^11.0.1",
+    "twitter": "^1.2.5"
+  }
+}
